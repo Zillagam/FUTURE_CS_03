@@ -8,7 +8,7 @@
 
 ## 📌 Project Overview
 
-This project is a **professional read-only API Security Risk Analysis** conducted on the public demo API [JSONPlaceholder](https://jsonplaceholder.typicode.com) using **Postman** on **Kali Linux**.
+This project is a **professional read-only API Security Risk Analysis** conducted on the public demo API [JSONPlaceholder](https://jsonplaceholder.typicode.com) using **Postman**.
 
 The goal was to identify common API security vulnerabilities as a security consultant would — without exploiting, modifying, or attacking any real system.
 
