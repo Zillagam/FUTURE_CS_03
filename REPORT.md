@@ -1,9 +1,9 @@
 # API Security Risk Analysis — Full Report
 
 **Target:** JSONPlaceholder (`https://jsonplaceholder.typicode.com`)  
-**Tester:** Atul | B.Tech CSE (Cyber Security) | GITAM University, Hyderabad | Roll No: 2023003147  
+**Tester:** Atul | B.Tech CSE (Cyber Security) | GITAM University, Hyderabad |  
 **Test Date:** June 16, 2026  
-**Tool:** Postman (PostmanRuntime/7.54.0) on Kali Linux  
+**Tool:** Postman (PostmanRuntime/7.54.0) 
 **Framework:** OWASP API Security Top 10 (2023)  
 **Task:** Future Interns Cybersecurity Program  
 
@@ -438,4 +438,4 @@ All evidence screenshots were captured directly from Postman during the live tes
 
 ---
 
-*Prepared by Atul | B.Tech CSE (Cyber Security) | GITAM University, Hyderabad | Roll No: 2023003147*
+*Prepared by Atul | B.Tech CSE (Cyber Security) | GITAM University, Hyderabad |
